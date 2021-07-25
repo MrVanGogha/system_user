@@ -3,4 +3,4 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/db?serverTimezone=GMT%2B8
     username: root
-    password: 961126
+    password: 961126121312312
